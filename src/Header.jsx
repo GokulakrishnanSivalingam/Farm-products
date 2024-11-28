@@ -11,8 +11,8 @@ return(
                 <li><a href="#">Home</a></li>
                 <li><a href="#products">Products</a></li>
                 <li><a href="#contact">Contact</a></li> 
-                <li><a href="">Sign up</a></li>
-              <div className="login">  <li><a href="">login</a></li></div>
+                <li><a href="">Signup</a></li>
+              <div className="login">  <li><a href="">signin</a></li></div>
             </ul>
         </nav>
     </header>
